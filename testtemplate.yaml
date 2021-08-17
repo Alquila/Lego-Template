@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
-  name: Test Template
-  title: Test Template
-  description: Test Template Function
+  name: react-ssr-template
+  title: React SSR Template
+  description: Create a website powered with Next.js
   tags:
     - recommended
     - react
